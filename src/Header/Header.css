@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+header{
+    background-color: rgb(7, 187, 7);
+}
+header>* {
+    margin-bottom: 3%;
+}
+h1 {
+    color: white;
+}
+
+.stats{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 3%;
+    padding-bottom: 3%;
+}
+.stats p:first-child{
+    color: white;}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACL,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,OAAO,EAAE,EAAE;CACd",
+    "sources": [
+        "Section.scss"
+    ],
+    "names": [],
+    "file": "Section.css"
+}

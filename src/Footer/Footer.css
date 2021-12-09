@@ -1,0 +1,17 @@
+.footer {
+    display:flex;
+    flex-wrap: wrap;
+}
+.footer div {
+    width:24%;
+    padding: 1%
+}
+.footer div p:nth-of-type(1),.footer div p:last-child {
+    font-weight: bold;
+    font-size: 1.3rem;
+    color:rgb(81, 191, 255)
+}
+
+img {
+    width:100%;
+}
